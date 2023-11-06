@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoWebFormBootcamp2023_AldoSouza", "ProjetoWebFormBootcamp2023_AldoSouza\ProjetoWebFormBootcamp2023_AldoSouza.csproj", "{F305DC63-0B49-4A1A-BB8A-A1813000EC92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F305DC63-0B49-4A1A-BB8A-A1813000EC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F305DC63-0B49-4A1A-BB8A-A1813000EC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F305DC63-0B49-4A1A-BB8A-A1813000EC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F305DC63-0B49-4A1A-BB8A-A1813000EC92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB74AFA0-68A8-4E60-847B-105D02CDF62A}
+	EndGlobalSection
+EndGlobal
